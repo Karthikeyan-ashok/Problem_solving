@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0120-triangle](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0120-triangle) |
 | [1018-largest-perimeter-triangle](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1018-largest-perimeter-triangle) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1306-minimum-absolute-difference](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1306-minimum-absolute-difference) |
 | [1961-maximum-ice-cream-bars](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1961-maximum-ice-cream-bars) |
 | [4008-restore-finishing-order](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/4008-restore-finishing-order) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1018-largest-perimeter-triangle) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1306-minimum-absolute-difference](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1306-minimum-absolute-difference) |
 | [1961-maximum-ice-cream-bars](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1961-maximum-ice-cream-bars) |
 ## Bit Manipulation
