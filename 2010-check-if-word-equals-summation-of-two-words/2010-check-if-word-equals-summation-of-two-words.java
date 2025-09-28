@@ -1,5 +1,4 @@
 class Solution {
-    int[]arr = {0,1,2,3,4,5,6,7,8,9};
     public boolean isSumEqual(String firstWord, String secondWord, String targetWord) {
         int sum1 = 0;
         for(char ch : firstWord.toCharArray())
