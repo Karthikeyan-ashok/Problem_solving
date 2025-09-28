@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0097-interleaving-string](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0120-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0338-counting-bits) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0207-course-schedule](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0210-course-schedule-ii) |
 ## Breadth-First Search
@@ -91,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1961-maximum-ice-cream-bars](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1961-maximum-ice-cream-bars) |
+## Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
