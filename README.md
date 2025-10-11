@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3055-maximum-odd-binary-number](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3055-maximum-odd-binary-number) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1961-maximum-ice-cream-bars](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1961-maximum-ice-cream-bars) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4008-restore-finishing-order](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/4008-restore-finishing-order) |
 ## Linked List
