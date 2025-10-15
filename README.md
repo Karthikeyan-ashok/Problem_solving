@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0182-duplicate-emails) |
 | [0185-department-top-three-salaries](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0185-department-top-three-salaries) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1317-monthly-transactions-i](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1317-monthly-transactions-i) |
 | [1452-restaurant-growth](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1452-restaurant-growth) |
 | [2087-confirmation-rate](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2087-confirmation-rate) |
