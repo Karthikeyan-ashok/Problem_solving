@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0338-counting-bits) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Simulation
@@ -201,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1395-minimum-time-visiting-all-points) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
