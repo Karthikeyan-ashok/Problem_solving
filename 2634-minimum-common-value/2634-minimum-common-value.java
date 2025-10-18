@@ -1,16 +1,20 @@
 class Solution {
     public int getCommon(int[] nums1, int[] nums2) {
-        Set<Integer> set = new TreeSet<>();
-        for(int i : nums1)
+        int i = 0;
+        int j = 0;
+        while(i<nums1.length && j<nums2.length)
         {
-            set.add(i);
-        }
-
-        for(int i : nums2)
-        {
-            if(set.contains(i))
+            if(nums1[i]==nums2[j])
             {
-                return i;
+                return nums1[i];
+            }
+            else if(nums1[i]<nums2[j])
+            {
+                i++;
+            }
+            else
+            {
+                j++;
             }
         }
         return -1;
