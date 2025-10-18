@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4008-restore-finishing-order](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/4008-restore-finishing-order) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4058-compute-alternating-sum](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/4058-compute-alternating-sum) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0561-array-partition) |
 | [1961-maximum-ice-cream-bars](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1961-maximum-ice-cream-bars) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Tree
 |  |
 | ------- |
