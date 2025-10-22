@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0024-swap-nodes-in-pairs) |
 ## Recursion
 |  |
@@ -228,9 +229,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0190-reverse-bits) |
 ## Binary Search
 |  |
 | ------- |
 | [2634-minimum-common-value](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2634-minimum-common-value) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
