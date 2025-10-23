@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1044-find-common-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2634-minimum-common-value](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2634-minimum-common-value) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3994-find-the-least-frequent-digit](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3994-find-the-least-frequent-digit) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-minimum-time-visiting-all-points](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1395-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1961-maximum-ice-cream-bars](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1961-maximum-ice-cream-bars) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1306-minimum-absolute-difference](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1961-maximum-ice-cream-bars](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1961-maximum-ice-cream-bars) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
