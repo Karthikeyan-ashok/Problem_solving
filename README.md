@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0120-triangle) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0283-move-zeroes) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [2634-minimum-common-value](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2634-minimum-common-value) |
 ## Heap (Priority Queue)
 |  |
