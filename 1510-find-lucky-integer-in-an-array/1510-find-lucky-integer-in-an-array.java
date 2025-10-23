@@ -7,15 +7,15 @@ class Solution {
             arr[i]++;
         }
 
-        int ans = -1;
-        for(int i=1;i<arr.length;i++)
+        
+        for(int i=arr.length-1;i>0;i--)
         {
             if(arr[i]==i)
             {
-                ans = Math.max(i,ans);
+                return i;
             }
         }
 
-        return ans;
+        return -1;
     }
 }
