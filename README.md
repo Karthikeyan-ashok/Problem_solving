@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0037-sudoku-solver) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0166-fraction-to-recurring-decimal) |
 | [0816-design-hashset](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0817-design-hashmap) |
 | [1044-find-common-characters](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1044-find-common-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0561-array-partition) |
 | [0816-design-hashset](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0817-design-hashmap) |
 | [1018-largest-perimeter-triangle](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1018-largest-perimeter-triangle) |
 | [1044-find-common-characters](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1044-find-common-characters) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0024-swap-nodes-in-pairs) |
 | [0816-design-hashset](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0817-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
@@ -260,8 +263,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0817-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
