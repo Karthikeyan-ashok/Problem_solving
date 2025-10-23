@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1317-monthly-transactions-i](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1317-monthly-transactions-i) |
 | [1452-restaurant-growth](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1452-restaurant-growth) |
+| [1908-recyclable-and-low-fat-products](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2087-confirmation-rate) |
 ## Combinatorics
 |  |
