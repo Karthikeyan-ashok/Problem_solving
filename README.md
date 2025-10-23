@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2401-count-asterisks](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2401-count-asterisks) |
 | [3055-maximum-odd-binary-number](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3055-maximum-odd-binary-number) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3055-maximum-odd-binary-number](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3055-maximum-odd-binary-number) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3994-find-the-least-frequent-digit](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3994-find-the-least-frequent-digit) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3995-gcd-of-odd-and-even-sums) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2288-count-operations-to-obtain-zero](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4058-compute-alternating-sum](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/4058-compute-alternating-sum) |
 ## Counting Sort
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -207,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Stack
 |  |
