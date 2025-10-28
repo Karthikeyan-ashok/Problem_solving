@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0032-longest-valid-parentheses](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0038-count-and-say) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0037-sudoku-solver) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0166-fraction-to-recurring-decimal) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0012-integer-to-roman) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0166-fraction-to-recurring-decimal) |
 | [0371-sum-of-two-integers](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0371-sum-of-two-integers) |
 | [1018-largest-perimeter-triangle](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1018-largest-perimeter-triangle) |
