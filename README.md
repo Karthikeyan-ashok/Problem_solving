@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2428-equal-row-and-column-pairs) |
 | [2634-minimum-common-value](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2634-minimum-common-value) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3994-find-the-least-frequent-digit](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3994-find-the-least-frequent-digit) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4008-restore-finishing-order](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/4008-restore-finishing-order) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3055-maximum-odd-binary-number](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3055-maximum-odd-binary-number) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2634-minimum-common-value) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3994-find-the-least-frequent-digit](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3994-find-the-least-frequent-digit) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
