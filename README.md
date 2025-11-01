@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2428-equal-row-and-column-pairs) |
 | [2634-minimum-common-value](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2634-minimum-common-value) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3994-find-the-least-frequent-digit](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3994-find-the-least-frequent-digit) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2634-minimum-common-value) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3994-find-the-least-frequent-digit](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3994-find-the-least-frequent-digit) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0024-swap-nodes-in-pairs) |
 | [0816-design-hashset](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0817-design-hashmap) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
