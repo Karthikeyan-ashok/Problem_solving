@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3994-find-the-least-frequent-digit](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3994-find-the-least-frequent-digit) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Array
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2551-apply-operations-to-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/4051-remove-zeros-in-decimal-representation) |
 | [4058-compute-alternating-sum](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/4058-compute-alternating-sum) |
 ## Counting Sort
 |  |
