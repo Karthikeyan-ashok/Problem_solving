@@ -1,9 +1,18 @@
 class Solution {
     public long removeZeros(long n) {
-        String s = String.valueOf(n);
+        long ans = 0;
+        long pos = 1;
+        while(n!=0)
+        {
+            long rem = n%10;
+            if(rem!=0)
+            {
+                ans += rem*pos;
+                pos *= 10;
+            }
+            n /= 10;
+        }
 
-        String a = s.replaceAll("0","");
-        
-        return Long.valueOf(a);
+        return ans;
     }
 }
