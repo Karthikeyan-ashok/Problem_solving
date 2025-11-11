@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0097-interleaving-string) |
 | [0165-compare-version-numbers](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0166-fraction-to-recurring-decimal) |
+| [0474-ones-and-zeroes](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0474-ones-and-zeroes) |
 | [1044-find-common-characters](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1044-find-common-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0338-counting-bits) |
+| [0474-ones-and-zeroes](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0474-ones-and-zeroes) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Hash Table
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0334-increasing-triplet-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0474-ones-and-zeroes) |
 | [0561-array-partition](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0561-array-partition) |
 | [0816-design-hashset](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0817-design-hashmap) |
