@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2645-pass-the-pillow) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3055-maximum-odd-binary-number](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3055-maximum-odd-binary-number) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2428-equal-row-and-column-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2551-apply-operations-to-an-array) |
 | [2634-minimum-common-value](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2634-minimum-common-value) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Stack
