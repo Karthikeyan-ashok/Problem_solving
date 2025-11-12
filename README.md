@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0032-longest-valid-parentheses](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0097-interleaving-string) |
 | [0165-compare-version-numbers](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0165-compare-version-numbers) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0097-interleaving-string) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0050-powx-n) |
 ## Depth-First Search
 |  |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0044-wildcard-matching) |
 | [0334-increasing-triplet-subsequence](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0334-increasing-triplet-subsequence) |
 | [0561-array-partition](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0561-array-partition) |
 | [1018-largest-perimeter-triangle](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1018-largest-perimeter-triangle) |
