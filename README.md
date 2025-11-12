@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0165-compare-version-numbers) |
 | [0283-move-zeroes](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0283-move-zeroes) |
 | [2551-apply-operations-to-an-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2551-apply-operations-to-an-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0198-house-robber) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0075-sort-colors) |
 | [0561-array-partition](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0561-array-partition) |
 | [1018-largest-perimeter-triangle](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1018-largest-perimeter-triangle) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1210-mean-of-array-after-removing-some-elements) |
