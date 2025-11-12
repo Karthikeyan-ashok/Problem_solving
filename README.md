@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0037-sudoku-solver) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0064-minimum-path-sum) |
