@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3994-find-the-least-frequent-digit](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3994-find-the-least-frequent-digit) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/4051-remove-zeros-in-decimal-representation) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 ## Array
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4058-compute-alternating-sum](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/4058-compute-alternating-sum) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4107-find-missing-elements](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/4107-find-missing-elements) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 ## Linked List
 |  |
 | ------- |
