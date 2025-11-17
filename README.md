@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1885-count-number-of-homogenous-substrings](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2401-count-asterisks](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2401-count-asterisks) |
+| [2476-check-distances-between-same-letters](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2476-check-distances-between-same-letters) |
 | [3055-maximum-odd-binary-number](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3055-maximum-odd-binary-number) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2122-count-special-quadruplets](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2122-count-special-quadruplets) |
 | [2428-equal-row-and-column-pairs](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2428-equal-row-and-column-pairs) |
+| [2476-check-distances-between-same-letters](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2476-check-distances-between-same-letters) |
 | [2634-minimum-common-value](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2634-minimum-common-value) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2428-equal-row-and-column-pairs) |
+| [2476-check-distances-between-same-letters](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2476-check-distances-between-same-letters) |
 | [2551-apply-operations-to-an-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2551-apply-operations-to-an-array) |
 | [2634-minimum-common-value](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2634-minimum-common-value) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
