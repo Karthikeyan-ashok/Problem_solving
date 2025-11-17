@@ -1,31 +1,22 @@
 class Solution {
     public boolean checkDistances(String s, int[] distance) {
-        boolean[] ar = new boolean[26];
-
-        int i = 0;
-        
-
-        while(i<s.length())
+        int[] arr = new int[26];
+        Arrays.fill(arr,-1);
+        for(int i=0;i<s.length();i++)
         {
-            int j = i+1;
-            
-            while(!ar[s.charAt(i)-'a'] && j<s.length() && s.charAt(i)!=s.charAt(j))
+            int ind = s.charAt(i)-'a';
+            if(arr[ind]==-1)
             {
-                j++;
+                arr[ind] = i;
             }
-            if(!ar[s.charAt(i)-'a'])
+            else
             {
-                ar[s.charAt(i)-'a'] = true;
-                System.out.print(j);
-                int len = j-i-1;
-
-                int d = distance[s.charAt(i)-'a'];
-                if(len!=d)
+                int len = i-arr[ind]-1;
+                if(len!=distance[ind])
                 {
                     return false;
                 }
             }
-            i++;
         }
         return true;
     }
