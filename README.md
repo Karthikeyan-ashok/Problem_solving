@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0474-ones-and-zeroes) |
 | [1044-find-common-characters](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1044-find-common-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2401-count-asterisks](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2401-count-asterisks) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1064-smallest-integer-divisible-by-k](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1395-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
