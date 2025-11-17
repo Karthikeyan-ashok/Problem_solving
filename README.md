@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4008-restore-finishing-order](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/4008-restore-finishing-order) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
+| [4107-find-missing-elements](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/4107-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4012-earliest-time-to-finish-one-task](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4058-compute-alternating-sum](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/4058-compute-alternating-sum) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
+| [4107-find-missing-elements](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/4107-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
+| [4107-find-missing-elements](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/4107-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
