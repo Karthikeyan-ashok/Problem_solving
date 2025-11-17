@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2401-count-asterisks](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2401-count-asterisks) |
 | [3055-maximum-odd-binary-number](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3055-maximum-odd-binary-number) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2324-find-triangular-sum-of-an-array) |
