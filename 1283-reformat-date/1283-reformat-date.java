@@ -1,36 +1,62 @@
 class Solution {
-    String[] month = {"Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"};
     public String reformatDate(String date) {
-        String[] temp = date.split("\\s+");
-        String a = "";
-        int j = 0;
-        while(j<2)
+        String[] parts = date.split(" ");
+        StringBuilder ans = new StringBuilder();
+
+        ans.append(parts[2]);
+        ans.append("-");
+
+        switch(parts[1]) 
         {
-            if(Character.isDigit(temp[0].charAt(j)))
-            {
-                a += (temp[0].charAt(j));
-            }
-            j++;
+            case "Jan":
+                ans.append("01");
+                break;
+            case "Feb":
+                ans.append("02");
+                break;
+            case "Mar":
+                ans.append("03");
+                break;
+            case "Apr":
+                ans.append("04");
+                break;
+            case "May":
+                ans.append("05");
+                break;
+            case "Jun":
+                ans.append("06");
+                break;
+            case "Jul":
+                ans.append("07");
+                break;
+            case "Aug":
+                ans.append("08");
+                break;
+            case "Sep":
+                ans.append("09");
+                break;
+            case "Oct":
+                ans.append("10");
+                break;
+            case "Nov":
+                ans.append("11");
+                break;
+            case "Dec":
+                ans.append("12");
+                break;
         }
-        if(a.length()<2)
+
+        ans.append("-");
+
+        if(parts[0].length() == 3) 
         {
-            a = "0"+a;
-        }
-        for(int i=0;i<12;i++)
+            ans.append('0');
+            ans.append(parts[0].charAt(0));
+        } else 
         {
-            if(temp[1].equals(month[i]))
-            {
-                if(i<9)
-                {
-                    a = "0"+(i+1)+"-"+a;
-                }
-                else
-                {
-                    a = (i+1)+"-"+a;
-                }
-            }
+            ans.append(parts[0].substring(0, 2));
         }
-        a = temp[2]+"-"+a;
-        return a;
+
+        return ans.toString();
     }
 }
