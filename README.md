@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0334-increasing-triplet-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0474-ones-and-zeroes) |
 | [0561-array-partition](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0561-array-partition) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0816-design-hashset](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0817-design-hashmap) |
 | [1018-largest-perimeter-triangle](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1018-largest-perimeter-triangle) |
