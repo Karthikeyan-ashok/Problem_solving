@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2122-count-special-quadruplets](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2122-count-special-quadruplets) |
 | [2169-simple-bank-system](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2169-simple-bank-system) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2428-equal-row-and-column-pairs](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2428-equal-row-and-column-pairs) |
 | [2476-check-distances-between-same-letters](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2476-check-distances-between-same-letters) |
 | [2634-minimum-common-value](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2634-minimum-common-value) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2122-count-special-quadruplets) |
 | [2169-simple-bank-system](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2169-simple-bank-system) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2428-equal-row-and-column-pairs) |
 | [2476-check-distances-between-same-letters](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2476-check-distances-between-same-letters) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1961-maximum-ice-cream-bars) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4107-find-missing-elements](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/4107-find-missing-elements) |
 ## Bit Manipulation
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2169-simple-bank-system) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2428-equal-row-and-column-pairs) |
