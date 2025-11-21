@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1708-design-parking-system](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1708-design-parking-system) |
 | [2169-simple-bank-system](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2288-count-operations-to-obtain-zero) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0561-array-partition) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1708-design-parking-system](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1708-design-parking-system) |
 | [1961-maximum-ice-cream-bars](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1961-maximum-ice-cream-bars) |
 | [3994-find-the-least-frequent-digit](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3994-find-the-least-frequent-digit) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0816-design-hashset](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0817-design-hashmap) |
+| [1708-design-parking-system](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1708-design-parking-system) |
 | [2169-simple-bank-system](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2169-simple-bank-system) |
 ## Hash Function
 |  |
