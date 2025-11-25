@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0535-encode-and-decode-tinyurl) |
 | [0816-design-hashset](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0817-design-hashmap) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1044-find-common-characters) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0728-self-dividing-numbers) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1018-largest-perimeter-triangle) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1395-minimum-time-visiting-all-points) |
