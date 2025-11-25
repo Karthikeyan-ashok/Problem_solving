@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1885-count-number-of-homogenous-substrings) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2401-count-asterisks](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2401-count-asterisks) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1833-find-the-highest-altitude](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1833-find-the-highest-altitude) |
 | [1961-maximum-ice-cream-bars](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1961-maximum-ice-cream-bars) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2122-count-special-quadruplets](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2122-count-special-quadruplets) |
 | [2169-simple-bank-system](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2169-simple-bank-system) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1961-maximum-ice-cream-bars](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1961-maximum-ice-cream-bars) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0190-reverse-bits) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0023-merge-k-sorted-lists) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -392,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2122-count-special-quadruplets](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2122-count-special-quadruplets) |
+## Quickselect
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
