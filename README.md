@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0097-interleaving-string) |
 | [0165-compare-version-numbers](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0166-fraction-to-recurring-decimal) |
+| [0459-repeated-substring-pattern](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0474-ones-and-zeroes) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0535-encode-and-decode-tinyurl) |
 | [1044-find-common-characters](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1044-find-common-characters) |
@@ -401,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
