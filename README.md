@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0474-ones-and-zeroes) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0535-encode-and-decode-tinyurl) |
+| [0677-map-sum-pairs](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0677-map-sum-pairs) |
 | [1044-find-common-characters](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1044-find-common-characters) |
 | [1283-reformat-date](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1283-reformat-date) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0037-sudoku-solver) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0166-fraction-to-recurring-decimal) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0535-encode-and-decode-tinyurl) |
+| [0677-map-sum-pairs](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0677-map-sum-pairs) |
 | [0816-design-hashset](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0817-design-hashmap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0535-encode-and-decode-tinyurl) |
+| [0677-map-sum-pairs](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0677-map-sum-pairs) |
 | [0816-design-hashset](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0817-design-hashmap) |
 | [1708-design-parking-system](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1708-design-parking-system) |
@@ -406,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0459-repeated-substring-pattern) |
+## Trie
+|  |
+| ------- |
+| [0677-map-sum-pairs](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0677-map-sum-pairs) |
 <!---LeetCode Topics End-->
