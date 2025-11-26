@@ -1,0 +1,31 @@
+class ProductOfNumbers {
+
+    List<Integer> list;
+    public ProductOfNumbers() {
+        list = new ArrayList<>();
+    }
+    
+    public void add(int num) {
+        list.add(num);
+    }
+    
+    public int getProduct(int k) {
+        int sum = 1;
+        int i = list.size()-1;
+        int count = 0;
+        while(i>=0 && count<k)
+        {
+            sum *= list.get(i);
+            i--;
+            count++;
+        }
+        return sum;
+    }
+}
+
+/**
+ * Your ProductOfNumbers object will be instantiated and called as such:
+ * ProductOfNumbers obj = new ProductOfNumbers();
+ * obj.add(num);
+ * int param_2 = obj.getProduct(k);
+ */
