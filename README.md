@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1044-find-common-characters) |
 | [1283-reformat-date](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1283-reformat-date) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1447-simplified-fractions](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1447-simplified-fractions) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1352-product-of-the-last-k-numbers) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1395-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1447-simplified-fractions](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1447-simplified-fractions) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1447-simplified-fractions](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1447-simplified-fractions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3995-gcd-of-odd-and-even-sums) |
