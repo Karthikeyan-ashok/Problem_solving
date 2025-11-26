@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0023-merge-k-sorted-lists) |
+| [1845-seat-reservation-manager](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1845-seat-reservation-manager) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Merge Sort
 |  |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0817-design-hashmap) |
 | [1708-design-parking-system](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1708-design-parking-system) |
+| [1845-seat-reservation-manager](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1845-seat-reservation-manager) |
 | [2169-simple-bank-system](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2169-simple-bank-system) |
 ## Hash Function
 |  |
