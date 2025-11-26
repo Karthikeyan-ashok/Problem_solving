@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0728-self-dividing-numbers) |
+| [0866-prime-palindrome](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0866-prime-palindrome) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1018-largest-perimeter-triangle) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1064-smallest-integer-divisible-by-k) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0866-prime-palindrome](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0866-prime-palindrome) |
 | [1447-simplified-fractions](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1447-simplified-fractions) |
 | [2748-number-of-beautiful-pairs](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2748-number-of-beautiful-pairs) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
