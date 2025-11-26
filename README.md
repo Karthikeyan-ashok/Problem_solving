@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0097-interleaving-string) |
 | [0165-compare-version-numbers](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0165-compare-version-numbers) |
