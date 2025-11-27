@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0120-triangle) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0166-fraction-to-recurring-decimal) |
 | [0371-sum-of-two-integers](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0507-perfect-number) |
@@ -469,4 +471,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3411-maximum-subarray-with-equal-products) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
