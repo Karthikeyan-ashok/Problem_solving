@@ -1,19 +1,16 @@
 class Solution(object):
     def searchRange(self, nums, target):
 
-        ans = []
+        ans = [-1,-1]
 
         for i in range(len(nums)) :
             if nums[i]==target :
-                ans.append(i)
+                ans[0] = i
                 break
 
         for i in range(len(nums)-1,-1,-1) : 
             if nums[i]==target :
-                ans.append(i)
+                ans[1] = i
                 break
         
-        if len(ans)==0 :
-            return -1,-1
-        else :
-            return ans
+        return ans
