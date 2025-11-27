@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2634-minimum-common-value) |
 | [2748-number-of-beautiful-pairs](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2748-number-of-beautiful-pairs) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1833-find-the-highest-altitude) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Number Theory
 |  |
 | ------- |
