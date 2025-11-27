@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0032-longest-valid-parentheses](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0072-edit-distance) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0050-powx-n) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0166-fraction-to-recurring-decimal) |
 | [0371-sum-of-two-integers](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0371-sum-of-two-integers) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0043-multiply-strings) |
 | [1708-design-parking-system](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1708-design-parking-system) |
 | [2169-simple-bank-system](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2274-keep-multiplying-found-values-by-two) |
