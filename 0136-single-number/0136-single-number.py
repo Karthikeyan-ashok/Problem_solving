@@ -1,10 +1,10 @@
 class Solution(object):
     def singleNumber(self, nums):
-        freq = {}
-        for i in nums :
-            freq[i] = freq.get(i,0) + 1
         
-        ans = min(freq, key=freq.get)
+        nums.sort()
 
-        return ans 
+        for i in range(0,len(nums)-1,2) :
+            if nums[i]!=nums[i+1] :
+                return nums[i]
         
+        return nums[len(nums)-1]
