@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0677-map-sum-pairs) |
 | [0816-design-hashset](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0817-design-hashmap) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1044-find-common-characters) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1064-smallest-integer-divisible-by-k) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0816-design-hashset](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0817-design-hashmap) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1044-find-common-characters](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1044-find-common-characters) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1352-product-of-the-last-k-numbers) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1833-find-the-highest-altitude) |
