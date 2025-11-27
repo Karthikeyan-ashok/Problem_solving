@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0166-fraction-to-recurring-decimal) |
+| [0231-power-of-two](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0728-self-dividing-numbers) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0231-power-of-two) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0231-power-of-two](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0371-sum-of-two-integers) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1018-binary-prefix-divisible-by-5) |
