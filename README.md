@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0041-first-missing-positive) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0166-fraction-to-recurring-decimal) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0535-encode-and-decode-tinyurl) |
 | [0677-map-sum-pairs](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0677-map-sum-pairs) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0041-first-missing-positive) |
 | [0064-minimum-path-sum](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
