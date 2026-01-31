@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0816-design-hashset](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0817-design-hashmap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2634-minimum-common-value](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2634-minimum-common-value) |
 ## Heap (Priority Queue)
 |  |
