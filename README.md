@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0166-fraction-to-recurring-decimal) |
+| [0204-count-primes](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0507-perfect-number) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0334-increasing-triplet-subsequence) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0866-prime-palindrome) |
 | [1447-simplified-fractions](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1447-simplified-fractions) |
 | [2748-number-of-beautiful-pairs](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2748-number-of-beautiful-pairs) |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0204-count-primes) |
 | [2122-count-special-quadruplets](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2122-count-special-quadruplets) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Quickselect
