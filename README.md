@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3379-transformed-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2428-equal-row-and-column-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2551-apply-operations-to-an-array) |
 | [2645-pass-the-pillow](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2645-pass-the-pillow) |
+| [3379-transformed-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3379-transformed-array) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
