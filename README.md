@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0073-set-matrix-zeroes) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0166-fraction-to-recurring-decimal) |
+| [0217-contains-duplicate](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0217-contains-duplicate) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0535-encode-and-decode-tinyurl) |
 | [0677-map-sum-pairs](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0677-map-sum-pairs) |
 | [0816-design-hashset](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0816-design-hashset) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0334-increasing-triplet-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0474-ones-and-zeroes) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0561-array-partition) |
 | [1018-largest-perimeter-triangle](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1018-largest-perimeter-triangle) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1210-mean-of-array-after-removing-some-elements) |
