@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0165-compare-version-numbers) |
 | [0283-move-zeroes](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2551-apply-operations-to-an-array) |
 | [2634-minimum-common-value](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2634-minimum-common-value) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0073-set-matrix-zeroes) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0535-encode-and-decode-tinyurl) |
 | [0677-map-sum-pairs](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0677-map-sum-pairs) |
 | [0816-design-hashset](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0816-design-hashset) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0334-increasing-triplet-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0474-ones-and-zeroes](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0474-ones-and-zeroes) |
 | [0561-array-partition](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0704-binary-search) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0561-array-partition) |
 | [1018-largest-perimeter-triangle](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1018-largest-perimeter-triangle) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -447,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2634-minimum-common-value](https://github.com/Karthikeyan-ashok/Problem_solving/tree/master/2634-minimum-common-value) |
